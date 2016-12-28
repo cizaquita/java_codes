@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="." destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="1.6" sourcefiles="src/Descripcion.java,src/Basedatos.java,src/RealizarPedido.java,src/Ventas.java,src/JPanelFondo.java,src/Editorial.java,src/Pedido.java,src/AgregarPedido.java,src/Libros.java,src/ActualizarPedido.java,src/Pedidos.java,src/Inicio.java,src/AgregarLibro.java,src/MenuPrincipalCliente.java,src/Cliente.java,src/AgregarEditorial.java,src/MenuPrincipalAdmin.java,src/AgregarCliente.java" sourcepath="src" splitindex="true" use="true" version="true">
+            <link href="http://download.oracle.com/javase/7/docs/api/"/>
+        </javadoc>
+    </target>
+</project>
